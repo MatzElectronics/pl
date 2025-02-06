@@ -1,0 +1,17 @@
+{
+    "name": "PlusLife Analyzer App",
+    "short_name": "PlusLife",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#5900b3",
+    "theme_color": "black",
+    "scope": ".",
+    "description": "Experiemental Analyzer Application for the PlusLife device.",
+    "icons": [
+        {
+            "src": "assets/power.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
